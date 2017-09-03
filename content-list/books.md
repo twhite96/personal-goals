@@ -1,5 +1,7 @@
 # Books to Read
 
-- [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
-- [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
-- [ ] That Book That I Have a Physical Copy of Counts, Too
+- [ ] Data Structures and Algorithms in JavaScript
+- [ ] Self-Taught Programmer
+- [ ] Introduction to Algorithms
+- [ ] Cracking the Coding Interview
+- [ ] JavaScript with Promises

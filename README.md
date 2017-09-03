@@ -8,35 +8,36 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 # Overarching Goals
 1. Contribute to Open Source
 2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+3. Use vanilla JavaScript more
+4. Get better at ES6 and vanilla JavaScript
+5. Learn about functional programming in JavaScript
+6. Learn Calculus and functional programming in general
+7. Get better at thinking algorithmically and writing algorithms
+8. Be kind
 
-# November 00, 2014
+# September 10, 2017
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Get Better.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
+- [ ] Watch 2 videos from my content list about functional programming in JavaScript and creating a Chrome extension
 - [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
+- [ ] Continue working on YelpCamp and The Web Developer Bootcamp
+- [ ] Start the book on data structures and algorithms in JavaScript
+- [x] Read [this blog post](https://medium.freecodecamp.org/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9) again
+- [ ] Find awesome python scripts for working with my Raspberry Pi
 
-### Things I'll Do This Month: November 2014
+### Things I'll Do This Month: September 2017
 - [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+- [ ] Finish YelpCamp
+- [ ] Start working with my Raspberry Pi
+- [ ] Find a good bug on an OS project to work on
+- [ ] Start working more on Check Yo Self
 
 ### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+- [ ] Work on [my cool project I forgot about](https://codepen.io/twhite96/pen/4b7f4bee11d03343ed7ec934b7c575e4)
+- [ ] Build a Chrome extension
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+1. Create an npm library
+2. Build a random robot with my Arduino

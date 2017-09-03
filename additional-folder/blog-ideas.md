@@ -1,17 +1,24 @@
-In here you can list steps to accomplish your goals.
 
-Here's an example:
+Functional programming in JavaScript
 
-If my goal was to create a dog-themed SVG animation a day, I could list out different animation ideas:
+Rewatch this playlist and make notes here.
 
-1. Dog jumping over hoop into pool
-2. Dog floating on the moon
-3. Dog in glasses, reading book
-etc..
+[mpj functional programming playlist](http://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
-If my goal was to film more videocasts, this could be used for topics
 
-Nov. 2: Mario Kart over the ages
-Nov. 9: Why Princess Peach lied
-Nov. 16: ?
-Nov. 25: Interview with Luigi
+
+1. Map
+
+2. Filter
+
+3. Reduce
+
+4. Advanced Reduce
+
+5. Closures
+
+6. Recursion
+
+7. Promises
+
+8. Async/Await
