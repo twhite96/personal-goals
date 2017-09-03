@@ -24,7 +24,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Write a blog post
 - [ ] Continue working on YelpCamp and The Web Developer Bootcamp
 - [ ] Start the book on data structures and algorithms in JavaScript
-- [x] Read [this blog post](https://medium.freecodecamp.org/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9) again
+- [ ] Read [this blog post](https://medium.freecodecamp.org/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9) again
 - [ ] Find awesome python scripts for working with my Raspberry Pi
 
 ### Things I'll Do This Month: September 2017
