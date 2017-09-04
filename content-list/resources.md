@@ -1,7 +1,10 @@
 # Resources I Can Always Refer Back To
 
-### CSS
-- [ ] [CSS Guidelines](http://cssguidelin.es/)
+### Google Tech Dev
+- [ ] [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
-### Tools
-- [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
+### Base CS
+- [ ] [Base CS Medium Publication](https://medium.com/basecs)
+
+### freeCodeCamp Medium Publication
+- [ ] [freeCodeCamp Medium Publication](https://medium.freecodecamp.org/)
