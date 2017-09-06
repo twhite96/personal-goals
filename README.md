@@ -21,9 +21,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [ ] Watch 2 videos from my content list about functional programming in JavaScript and creating a Chrome extension
-- [ ] Write a blog post
-- [ ] Continue working on YelpCamp and The Web Developer Bootcamp
-- [ ] Start the book on data structures and algorithms in JavaScript
+- [x] Write a blog post
+- [x] Continue working on YelpCamp and The Web Developer Bootcamp
+- [x] Start the book on data structures and algorithms in JavaScript
 - [ ] Read [this blog post](https://medium.freecodecamp.org/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9) again
 - [ ] Find awesome python scripts for working with my Raspberry Pi
 
