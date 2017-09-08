@@ -1,24 +1,21 @@
+# Functional programming in JavaScript
 
-Functional programming in JavaScript
-
-Rewatch this playlist and make notes here.
+### Rewatch this playlist and make notes in Ulysses.
 
 [mpj functional programming playlist](http://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
+- [ ] Map
 
+- [x] Filter
 
-1. Map
+- [ ] Reduce
 
-2. Filter
+- [ ] Advanced Reduce
 
-3. Reduce
+- [ ] Closures
 
-4. Advanced Reduce
+- [ ] Recursion
 
-5. Closures
+- [ ] Promises
 
-6. Recursion
-
-7. Promises
-
-8. Async/Await
+- [ ] Async/Await
