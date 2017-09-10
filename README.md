@@ -20,7 +20,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Get Better.
 
 ## Things I'll Do This Week:
-- [ ] Watch 2 videos from my content list about functional programming in JavaScript and creating a Chrome extension
+- [x] Watch 2 videos from my content list about functional programming in JavaScript and creating a Chrome extension
 - [x] Write a blog post
 - [x] Continue working on YelpCamp and The Web Developer Bootcamp
 - [x] Start the book on data structures and algorithms in JavaScript
