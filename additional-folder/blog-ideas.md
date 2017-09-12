@@ -4,7 +4,7 @@
 
 [mpj functional programming playlist](http://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
-- [ ] Map
+- [x] Map
 
 - [x] Filter
 
