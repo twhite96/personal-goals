@@ -8,3 +8,6 @@
 
 ### freeCodeCamp Medium Publication
 - [ ] [freeCodeCamp Medium Publication](https://medium.freecodecamp.org/)
+
+### The Practical Dev
+- [ ] [The Practical Dev](https://dev.to/)
